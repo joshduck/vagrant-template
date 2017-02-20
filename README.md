@@ -1,0 +1,3 @@
+# Vagrant Template
+
+   vagrant up
